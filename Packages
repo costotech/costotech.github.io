@@ -1,0 +1,15 @@
+Package: com.costotech.pokeflat
+Version: 0.00.1
+Architecture: iphoneos-arm
+Maintainer: CostoTech <costotech@gmail.com>
+Depends:
+Filename: debs//com.costotech.pokeflat.deb
+Size: 6319632
+MD5sum: 1649aefffeb5565b129c6f6a975fdb58
+SHA1: ae4ffebd892055a6b305a2e085d898740dc373e1
+SHA256: 1bc8dd3c675aa667da9883c393ef11e1b448244fe8ad65d77f783cd42bebb583
+Section: Themes
+Description: Alpha version of PokeFlat Theme with around 55 icons.
+Author: CostoTech <costotech@gmail.com>
+Depiction: http://costotech.github.io/depictions/index.html?p=com.costotech.pokeflat
+Name: PokeFlat

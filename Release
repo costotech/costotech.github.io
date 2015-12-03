@@ -1,0 +1,9 @@
+Origin: CostoTech’s Repo
+Label: CostoTech's Repo
+Suite: stable
+Version: 1.0
+Codename: CostoTech
+Architectures: iphoneos-arm
+Components: main
+Description: CostoTech’s Repo
+MD5Sum:
